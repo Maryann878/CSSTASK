@@ -1,0 +1,67 @@
+#SEDANS{
+    background-color: orangered;
+
+}
+#SUVS{
+    background-color: seagreen;
+    border-bottom: 4px;
+
+} 
+#LUXURY{
+    background-color: darkgreen;
+
+}
+
+div{
+    text-align: center;
+    width: calc(130%/4);
+font-size: 25px;
+float: left;
+}
+
+    .SUVS {
+    font-size: 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+    .SEDANS {
+        font-size: 40px;
+        color: white;
+        font-family: 'Lato', sans-serif;
+
+    }
+
+    .LUXURY {
+        font-size: 40px;
+        color: white;
+        font-family: 'Lato', sans-serif;}
+
+        h2 {
+            font-size: 60px;
+            color: white;
+        }
+
+        #Button1 {
+            font-size: 20px;
+            color: orangered;
+            border: 1px solid orangered;
+            border-radius: 50%;
+ }
+ #Button2 {font-size: 20px;
+    color: seagreen;
+    border: 1px solid seagreen;
+    border-radius: 50%;
+
+ }
+ #Button3 {font-size: 20px;
+    color: darkgreen;
+    border: 1px solid darkgreen;
+    border-radius: 50%;
+
+ }
+
+
+
+
+
