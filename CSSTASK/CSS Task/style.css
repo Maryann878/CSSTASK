@@ -1,0 +1,82 @@
+
+
+h1 {font-family:Big Shoulders Display, cursive;
+    Lexend Deca, sans-serif;
+font-size:50px;
+color: hsl(0, 0%, 95%);
+ }
+
+p{
+    font-size: 25;
+font-family:Big Shoulders Display, cursive;
+Lexend Deca, sans-serif ;
+color:hsla(0, 0%, 100%, 0.75)
+ }
+
+button{
+    font-family:Big Shoulders Display, cursive;
+    Lexend Deca, sans-serif;
+}
+
+.sedan{
+    background-color: hsl(31, 77%, 52%);
+width: 250px ;
+height: 500px ;
+padding: 50px 75px ;
+margin-bottom: 900;
+}
+
+#sedan{
+    background-color:hsl(0, 0%, 95%) ;
+border-radius: 40px;
+border: 0;
+color:hsl(31, 77%, 52%);
+padding: 15px 25px;
+font-size: 15px;
+text-transform: capitalize;
+}
+
+.suv{
+    background-color: hsl(184, 100%, 22%);
+width: 250px ;
+height: 500px ;
+padding: 50px 75px ;
+margin-bottom: 900;
+ }
+
+ #suv{
+    background-color:hsl(0, 0%, 95%) ;
+border-radius: 40px;
+border: 0;
+color:hsl(184, 100%, 22%);
+padding: 15px 25px;
+font-size: 15px;
+text-transform: capitalize;
+}
+ .luxury{
+    background-color: hsl(179, 100%, 13%);
+width: 250px ;
+height: 500px ;
+padding: 50px 75px ;
+margin-bottom: 900;
+ }
+
+
+
+ #luxury{
+    background-color:hsl(0, 0%, 95%) ;
+border-radius: 40px;
+border: 0;
+color:hsl(179, 100%, 13%);
+padding: 15px 25px;
+font-size: 15px;
+text-transform: capitalize;
+    
+
+
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    
+}
